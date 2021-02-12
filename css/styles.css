@@ -56,3 +56,12 @@ footer{
 	justify-content: center;
 	align-items: center;
 }
+
+.nodeco{
+	text-decoration: none;
+	color: mediumvioletred;
+}
+
+.mybut:hover{
+	background-color: darkgoldenrod
+}
