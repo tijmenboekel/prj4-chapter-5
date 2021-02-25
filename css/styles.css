@@ -13,7 +13,7 @@ body{
 	height: 264px;
 	background-color: #EA6D1E;
 	background-image:url("../images/city.png");
-	
+	margin: auto;
 }
 
 p{
